@@ -1,6 +1,6 @@
 <a href="https://ignite-timer-rocket-seat-ashy.vercel.app/">Clique aqui para ter acesso a este projeto!</a>
 
-#Ignite Timer 
+<h1>Ignite Timer ROCKET-SEAT</h1> 
 
 
 <p>Este projeto foi desenvolvido nas aulas de Aprondando em Hooks no REACT da Rocket Seat, por Diego Fernandes.</p>
